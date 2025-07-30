@@ -25,7 +25,7 @@ Emotional-Sentiment-Analysis-and-Adaptive-Response-System/
 │ ├── model/ │ ├── init.py │ ├── emotion_model.py
 │ └── response_generator.py
 │ ├── utils/ │ ├── init.py │ └── preprocess.py
-│ ├── data/ │ └── emotions_dataset.csv
+│ ├── data/  │  └── emotions_dataset.csv
 │ └── README.md
 
 Setup Instructions
