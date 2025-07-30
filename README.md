@@ -32,7 +32,7 @@ Setup Instructions
 
  1. Clone the repository:
 
-  git clone https://github.com/AmbilyVelayudhan/Emotional-Sentiment-Analysis-and-Adaptive-         Response-System.git cd Emotional-Sentiment-Analysis-and-Adaptive-Response-System 
+ (https://github.com/ambily08/Emotional-Sentiment-Analysis-and-Adaptive-Response-System) Response-System.git cd Emotional-Sentiment-Analysis-and-Adaptive-Response-System 
   
  3. Create a virtual environment:
 
