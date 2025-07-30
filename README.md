@@ -16,18 +16,6 @@ To build an intelligent chatbot capable of:
 
 * Demonstrating the application of NLP for emotional wellbeing and mental health support.
 
-Project Structure:
-
-Emotional-Sentiment-Analysis-and-Adaptive-Response-System/
-
-├── app.py
-├── requirements.txt
-│ ├── model/ │ ├── init.py │ ├── emotion_model.py
-│ └── response_generator.py
-│ ├── utils/ │ ├── init.py │ └── preprocess.py
-│ ├── data/  │  └── emotions_dataset.csv
-│ └── README.md
-
 Setup Instructions
 
  1. Clone the repository:
