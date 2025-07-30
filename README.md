@@ -8,15 +8,15 @@ Objective
 
 To build an intelligent chatbot capable of:
 
-Understanding emotional intent in user text.
+* Understanding emotional intent in user text.
 
-Classifying emotions such as joy, sadness, anger, fear, love, and surprise.
+* Classifying emotions such as joy, sadness, anger, fear, love, and surprise.
 
-Responding in a culturally relevant and empathetic manner (e.g., Indian or Western style).
+* Responding in a culturally relevant and empathetic manner (e.g., Indian or Western style).
 
-Demonstrating the application of NLP for emotional wellbeing and mental health support.
+* Demonstrating the application of NLP for emotional wellbeing and mental health support.
 
-Project Structure
+Project Structure:
 
 Emotional-Sentiment-Analysis-and-Adaptive-Response-System/
 
@@ -30,14 +30,18 @@ Emotional-Sentiment-Analysis-and-Adaptive-Response-System/
 
 Setup Instructions
 
-Clone the repository:
-git clone https://github.com/AmbilyVelayudhan/Emotional-Sentiment-Analysis-and-Adaptive-Response-System.git cd Emotional-Sentiment-Analysis-and-Adaptive-Response-System
+ 1. Clone the repository:
 
-Create a virtual environment:
-python -m venv env source env/bin/activate # On Windows: env\Scripts\activate
+  git clone https://github.com/AmbilyVelayudhan/Emotional-Sentiment-Analysis-and-Adaptive-         Response-System.git cd Emotional-Sentiment-Analysis-and-Adaptive-Response-System 
+  
+ 3. Create a virtual environment:
 
-Install dependencies:
-pip install -r requirements.txt
+ python -m venv env source env/bin/activate # On Windows: env\Scripts\activate
 
-Run the Streamlit app:
-streamlit run app.py
+ 3. Install dependencies:
+
+ pip install -r requirements.txt
+
+ 4. Run the Streamlit app:
+
+ streamlit run app.py
